@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+node_modules/*
+node_modules/**/*
+
+# Environment variables
+.env
+
+# Build files
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+package-lock.json
+
